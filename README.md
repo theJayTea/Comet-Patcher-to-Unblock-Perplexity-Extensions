@@ -10,7 +10,7 @@ More background:
 ## One-click install
 
 ```bash
-curl -fsSL "https://raw.githubusercontent.com/theJayTea/Perplexity-Comet-Patcher-to-Fix-Complexity-Extension/main/comet-patch-macos.sh" | bash
+curl -fsSL "https://raw.githubusercontent.com/theJayTea/Comet-Patcher-to-Unblock-Perplexity-Extensions/main/comet-patch-macos.sh" | bash
 ```
 
 After it runs, open **Comet - CPLX** via Spotlight or `~/Applications`, and pin it to your Dock if you want.
